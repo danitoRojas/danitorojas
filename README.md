@@ -15,19 +15,3 @@
 - **Node.js**: Entorno de ejecución para JavaScript.
 - **Nestjs**: Infraestructura de aplicaciones web.
 
-## 📖 Contenidos
-
-- [Instalación](#instalación)
-- [Uso](#uso)
-- [Diseños y Ejemplos](#diseños-y-ejemplos)
-- [Contribuir](#contribuir)
-- [Licencia](#licencia)
-
-## 🛠 Instalación
-
-Para empezar con este proyecto, necesitas clonar el repositorio e instalar las dependencias:
-
-```bash
-git clone https://github.com/yourusername/yourrepository.git
-cd yourrepository
-npm install
