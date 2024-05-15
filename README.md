@@ -13,5 +13,5 @@
 - **NestJS**: Framework para aplicaciones de backend.
 - **TypeScript**: Lenguaje de programación que extiende JavaScript.
 - **Node.js**: Entorno de ejecución para JavaScript.
-- **TypeORM**: Infraestructura de aplicaciones web.
+- **TypeORM**: Libreria para crear BD y manipular sus datos sin la necesidad de conocer /usar SQL.
 
